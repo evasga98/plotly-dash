@@ -8,11 +8,11 @@ The dashboard contains the following graphs:
 - Pie char
 - Gauge chart
 
-![image](http://url/to/img.png)
+![image](images/demo.png)
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the app.
 
 ```bash
 pip install -r requirements.txt
