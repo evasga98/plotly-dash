@@ -4,8 +4,8 @@ This is a simple app created with Plotly and Dash. It creates a dashboard which 
 
 ## Graphs
 The dashboard contains the following graphs:
-- Bar grap
-- Pie char
+- Bar graph
+- Pie chart
 - Gauge chart
 
 ![image](images/demo.png)
